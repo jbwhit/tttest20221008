@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tttest20221008"
+  site-url: "https://jbwhit.github.io/tttest20221008"
+  description: "A test run of tttest20221008."
+  repo-branch: master
+  repo-url: "https://github.com/jbwhit/tttest20221008"
