@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://jbwhit.github.io',
                 'git_url': 'https://github.com/jbwhit/tttest20221008',
                 'lib_path': 'tttest20221008'},
-  'syms': {'tttest20221008.core': {'tttest20221008.core.foo': ('core.html#foo', 'tttest20221008/core.py')}}}
+  'syms': { 'tttest20221008.core': {'tttest20221008.core.foo': ('core.html#foo', 'tttest20221008/core.py')},
+            'tttest20221008.plot': {'tttest20221008.plot.foo': ('plot.html#foo', 'tttest20221008/plot.py')}}}
